@@ -2,7 +2,7 @@
  * registers.h
  *
  *  Created on: 21 Feb 2020
- *      Author: schwarzg
+
  */
 
 #ifndef REGISTERS_H_

@@ -2,7 +2,6 @@
  * registers.c
  *
  *  Created on: 21 Feb 2020
- *      Author: schwarzg
  */
 
 

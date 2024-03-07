@@ -2,7 +2,7 @@
  * commands.c
  *
  *  Created on: 4 Mar 2020
- *      Author: schwarzg
+ 
  */
 #include <DAVE.h> //Declarations from DAVE Code Generation (includes SFR declaration)
 #include <stdio.h>
